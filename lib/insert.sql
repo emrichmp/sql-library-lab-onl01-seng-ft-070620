@@ -27,3 +27,6 @@ INSERT INTO subgenres(name) VALUES
 INSERT INTO authors(name) VALUES
 ("JK Rowling"),
 ("God");
+
+INSERT INTO character_books(character_id, book_id) VALUES
+(1, 1)
