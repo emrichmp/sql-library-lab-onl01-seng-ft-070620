@@ -29,4 +29,7 @@ INSERT INTO authors(name) VALUES
 ("God");
 
 INSERT INTO character_books(character_id, book_id) VALUES
-(1, 1)
+(1, 1),
+(1, 1),
+(1, 1),
+(1, 1),
