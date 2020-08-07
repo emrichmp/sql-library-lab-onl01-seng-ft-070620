@@ -19,3 +19,7 @@ INSERT INTO characters(name, species, motto, author_id) VALUES
 ("EMRICH", "HUMAN", "I LIKE TO CODE", 0),
 ("EMRICH", "HUMAN", "I LIKE TO CODE", 0),
 ("EMRICH", "HUMAN", "I LIKE TO CODE", 0);
+
+INSERT INTO subgenres(name) VALUES
+("MANGA"),
+("MYSTERY");
