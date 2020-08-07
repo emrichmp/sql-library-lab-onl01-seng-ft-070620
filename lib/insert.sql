@@ -12,3 +12,10 @@ INSERT INTO books(title, year, series_id) VALUES
 
 INSERT INTO characters(name, species, motto, author_id) VALUES
 ("EMRICH", "HUMAN", "I LIKE TO CODE", 0),
+("EMRICH", "HUMAN", "I LIKE TO CODE", 0),
+("EMRICH", "HUMAN", "I LIKE TO CODE", 0),
+("EMRICH", "HUMAN", "I LIKE TO CODE", 0),
+("EMRICH", "HUMAN", "I LIKE TO CODE", 0),
+("EMRICH", "HUMAN", "I LIKE TO CODE", 0),
+("EMRICH", "HUMAN", "I LIKE TO CODE", 0),
+("EMRICH", "HUMAN", "I LIKE TO CODE", 0);
