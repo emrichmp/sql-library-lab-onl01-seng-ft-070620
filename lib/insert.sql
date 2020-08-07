@@ -9,3 +9,5 @@ INSERT INTO books(title, year, series_id) VALUES
 ("LAZY", 0000, 1),
 ("LAZY", 0000, 1),
 ("LAZY", 0000, 1);
+
+INSERT INTO characters()
