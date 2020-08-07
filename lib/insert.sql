@@ -23,3 +23,7 @@ INSERT INTO characters(name, species, motto, author_id) VALUES
 INSERT INTO subgenres(name) VALUES
 ("MANGA"),
 ("MYSTERY");
+
+INSERT INTO authors(name) VALUES
+("JK Rowling"),
+("God");
